@@ -1,4 +1,5 @@
 # login-php
 login em php 
-sistema de login com php, com pagina de upload de imagens e recuperação de senha.
-sistema carrossel em java script.
+</br>login com php e mysql com e recuperação de senha.
+</br>  upload de imagens 
+</br> carrossel em java script de imagens.
